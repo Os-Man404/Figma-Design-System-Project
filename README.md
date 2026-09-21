@@ -10,9 +10,9 @@
 
 ---
 
-## About This Repository
+## About 
 
-This repository documents how I applied the concepts from the **Figma Design System** course to practical UI projects instead of keeping the learning only as theory.
+This documents how I applied the concepts from the **Figma Design System** course to practical UI projects instead of keeping the learning only as theory.
 
 I created two different app concepts:
 
